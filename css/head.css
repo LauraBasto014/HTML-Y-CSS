@@ -1,0 +1,25 @@
+		body{
+			background-image: url('../imagenes/1.jpg'); 
+			background-attachment: fixed;
+			margin: 0;}
+			#ayudemos{color: #000; font-family: cooper std Black, birds of paradise;}
+			label{font-weight: bold;
+				}
+			#banner{
+			width: 100%;
+			background-color: #0B3B0B;
+			background-image: url('../imagenes/banner.jpg');
+			height: 200px;
+			} 
+			#nav{
+				width: 100%;
+				border-top: 1px solid #0B3B0B;
+				border-bottom: 1px solid #0B3B0B;
+		   		background-color: #0B6121;
+		    	padding: 0 ;
+		    	text-align:center;
+
+ 			}
+ 			#nav a{color: #fff; font-family: constancia;
+ 					margin-right:4px;
+ 					}

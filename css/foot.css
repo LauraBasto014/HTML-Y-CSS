@@ -1,0 +1,18 @@
+			#foot {
+			width:99.2%;
+			background-color: #0B3B0B;
+			height: 100px;
+			padding: 6.9px;
+			margin-top: 5px;
+			border: 1px solid: #000;
+			}
+			.enlacefoot{color: #81F781;}
+			.divfoot{
+			display: inline-block;
+			width: 400px;
+			height: auto;
+			float: left;
+			margin: 2px;
+			padding: 2px
+			}
+			.spanfoot{font-size: 20px; color:#fff; font-weight: bold;}

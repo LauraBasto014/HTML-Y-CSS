@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>Contactanos</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+<body>
+	<iframe src="template/head.html" id="iframe-head"></iframe>
+<div id="container2">
+	<h1 a name="contact" class="enc">Contáctanos</h1>
+	<form>
+		<p>
+			<input type="radio" name="servicio" value="cliente" checked> Cliente
+			<input type="radio" name="servicio" value="particular" checked> Particular
+		</p>
+
+		<p>
+			<label>Motivo del mensaje</label>
+		</p>
+		<p>
+			<select name="motivo">
+				<option>Quejas</option>
+				<option>Sugerencias</option>
+				<option>Soporte técnico</option>
+				<option>Nuevo servicio</option>
+				<option selected="selected">--Seleccionar--</option>
+			</select>
+		</p>
+		<p>
+			<div>
+				<label>Nombre:</label>
+			</div>
+			<input type="text" name="nombre"/>
+		</p>
+		<p>
+			<div >
+				<label>Email:</label>
+			</div>
+			<input type="text" name="email"/>
+		</p>
+		<p>
+			<label>Deja tu comentario..
+			</label>
+		</p>
+		<p>
+			<textarea name="comentario" cols="100" rows="10">
+			</textarea>
+		</p>
+		<p>
+			<input type="submit" value="Enviar mensaje"/>
+  			<input type="reset" value="Limpiar datos"/>
+  		</p>
+  	</form>
+ </div>
+   	<iframe src="template/foot.html" id="iframe-foot"></iframe>
+
+</body>
+</html>	

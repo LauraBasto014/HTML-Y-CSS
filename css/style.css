@@ -1,0 +1,54 @@
+		body{
+			background-image: url('../imagenes/1.jpg'); 
+			background-attachment: fixed;
+			margin: 0;}
+			h3{color: #0B3B0B; font-family: constancia;}
+			p{color: #000; font-size: 17px; font-family: Berlin Sans FB ;}
+			#container{margin: 0 30px 10px 30px;}
+			.enc{color: #000;}
+			.menu{color:#000; font-family: constancia;}
+			#margin{
+				text-align: center;
+			}
+
+			.linkmenu{
+				color: #0B3B0B; font-family: cooper std Black;
+				font-weight: bold;
+				text-decoration: none;
+				font-size: 14px;
+			}
+			.linkmenu:hover{color:#81F781; text-decoration: underline;}
+			.listacolor{color: #0B3B0B; font-family: cooper std Black;}
+			#container2{
+				margin: 5% 10% 5% 10%;
+				border: 2px solid: #023604;
+				background-color: #4FBE55;
+				padding: 0 10px 10px 10px;}
+			label{font-weight: bold;}
+
+			#container{margin: 10px 30px 10px 30px;}
+
+			#container3{
+				margin: 10% 10% 10% 10%;
+				border: 5px solid: #023604;
+				background-color: #4FBE55;
+				padding: 0 10px 10px 10px;
+			}
+			#container4{
+				margin: 2px 10px 2px 10px;
+				background-image: url('../imagenes/ingresar.jpg');
+				padding: 0 10px 10px 10px;
+			}
+			label{font-weight: bold;}
+			#iframe-head{
+				width: 100%;
+				border: 0;
+				margin: 0;
+				height: 260px;
+			}
+			#iframe-foot{
+				width: 100%;
+				border: 0;
+				margin: 0;
+				height: 130px;
+			}
